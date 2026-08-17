@@ -1,0 +1,32 @@
+{
+  "name": "dsh-auto-vision",
+  "version": "0.1.0",
+  "description": "DeepSeek Harness 视觉桥：自动发现已配置的多模态模型，给纯文本主模型（deepseek v4 flash）提供 vision 工具，识别结果以纯文本返回。",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib/index.js",
+    "cordis.patch.yml"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "dsh-plugin",
+    "cordis",
+    "plugin",
+    "vision",
+    "image",
+    "multimodal",
+    "qwen"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

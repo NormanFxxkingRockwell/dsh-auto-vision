@@ -1,0 +1,6 @@
+# dsh-auto-vision bundle layer — 把 vision 桥行插进宿主组合。
+# 安装后由 dsh 自动应用；本文件的 insert 行按包名引用插件，
+# Node 模块解析会定位到已安装的 dsh-auto-vision 包。
+- insert:
+    - id: dsh-auto-vision
+      name: dsh-auto-vision
