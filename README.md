@@ -8,8 +8,18 @@
 
 ## 快速开始
 
+本插件**已发布到 npm**（`dsh-auto-vision@0.1.0`），两种安装方式任选：
+
+**方式一：npm 安装（推荐）**
+
 ```sh
 dsh plugin --profile <你的profile名> add dsh-auto-vision
+```
+
+**方式二：GitHub 源码安装**（纯 JS、零构建步骤，无需构建授权）
+
+```sh
+dsh plugin --profile <你的profile名> add github:NormanFxxkingRockwell/dsh-auto-vision
 ```
 
 装好后，直接在主对话里说：
