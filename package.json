@@ -1,7 +1,7 @@
 {
   "name": "dsh-auto-vision",
   "version": "0.1.0",
-  "description": "DeepSeek Harness 视觉桥：自动发现已配置的多模态模型，给纯文本主模型（deepseek v4 flash）提供 vision 工具，识别结果以纯文本返回。",
+  "description": "Vision bridge for text-only DeepSeek Harness agents: auto-discovers an image-capable model from your configured providers and exposes a vision tool that returns descriptions as plain text. Zero config, one-command install.",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
