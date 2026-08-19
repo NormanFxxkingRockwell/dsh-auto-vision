@@ -1,6 +1,6 @@
 # dsh-auto-vision
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
+[![Awesome DSH Plugin](https://awesome-dsh-plugin.com/badge.svg)](https://awesome-dsh-plugin.com)
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![dsh](https://img.shields.io/badge/dsh-plugin-4B32C3)
 [![repo](https://img.shields.io/badge/repo-github-181717?logo=github)](https://github.com/NormanFxxkingRockwell/dsh-auto-vision)
