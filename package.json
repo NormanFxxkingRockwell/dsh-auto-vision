@@ -1,6 +1,6 @@
 {
   "name": "dsh-auto-vision",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "DeepSeek Harness 视觉桥：自动发现你已配置的多模态模型，给纯文本主模型装上 vision 工具，识别结果以纯文本返回。零配置，一条命令安装。",
   "type": "module",
   "main": "lib/index.js",
